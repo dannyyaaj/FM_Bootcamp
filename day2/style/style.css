@@ -4,4 +4,37 @@ body {
   background-color:#ffffcc;
 }
 
+img {
+  border: 0.5rem solid midnightblue;
+}
 
+h1 {
+  border: 0.25rem dotted red;
+}
+
+blockquote {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3rem;
+  text-align: center;
+  font-style: italic;
+}
+
+cite {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.bigbold {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: aqua;
+}
+
+a:hover {
+  color: fuchsia;
+}
